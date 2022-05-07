@@ -1,4 +1,4 @@
-baseURL = 'https://website1.github.io/'
+baseURL = 'https://github.com/kpaulsen97/website1.github.io/'
 languageCode = 'en-us'
 title = 'Social data website'
 theme = 'contrast-hugo'
