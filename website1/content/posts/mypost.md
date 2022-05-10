@@ -3,6 +3,11 @@ title: "Mortality, emissions, global warming: energy type point of view"
 date: 2022-05-07T09:08:10+02:00
 ---
 
+# Materials: 
+You can find all the resources of this article in the following link:
+
+https://github.com/kpaulsen97/projectB
+
 # Introduction
 Energy: it's the base of everything. If we didn't have available energy our cars wouldn't work, our industries neither, we wouldn't have water in our houses, warmth in the winter and the list goes on. <br>
 
